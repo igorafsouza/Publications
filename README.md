@@ -8,12 +8,12 @@ Access:
 
 ## (2024) bioRxiv - A single-cell atlas characterizes dysregulation of the bone marrow immune microenvironment associated with outcomes in multiple myeloma
 Access:
-  PMID: 38798338
+  PMID: 38798338  
   PMCID: PMC11118283  
   DOI: 10.1101/2024.05.15.593193
 
 ## (2024) J Immunother Cancer - Systemic chemokine-modulatory regimen combined with neoadjuvant chemotherapy in patients with triple-negative breast cancer
 Access:
-  PMID: 39542655
-  PMCID: PMC11575314
+  PMID: 39542655    
+  PMCID: PMC11575314    
   DOI: 10.1136/jitc-2024-010058
