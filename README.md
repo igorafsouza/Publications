@@ -10,4 +10,10 @@ Access:
 Access:
   PMID: 38798338
   PMCID: PMC11118283  
-  DOI: https://doi.org/10.1101/2024.05.15.593193
+  DOI: 10.1101/2024.05.15.593193
+
+## (2024) J Immunother Cancer - Systemic chemokine-modulatory regimen combined with neoadjuvant chemotherapy in patients with triple-negative breast cancer
+Access:
+  PMID: 39542655
+  PMCID: PMC11575314
+  DOI: 10.1136/jitc-2024-010058
