@@ -17,3 +17,8 @@ Access:
   PMID: 39542655    
   PMCID: PMC11575314    
   DOI: 10.1136/jitc-2024-010058
+
+## (2024) Journal of Hepatology - Single-cell RNA seq-derived signatures define response patterns to atezolizumab + bevacizumab in advanced hepatocellular carcinoma
+Access:
+  PMID: 39709141    
+  DOI: 10.1016/j.jhep.2024.12.016
