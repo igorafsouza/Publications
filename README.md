@@ -22,3 +22,8 @@ Access:
 Access:
   PMID: 39709141    
   DOI: 10.1016/j.jhep.2024.12.016
+
+## (2024) bioRxiv [Preprint] - Dendritic cells type 1 control the formation, maintenance, and function of tertiary lymphoid structures in cancer
+Access:
+  PMID: 39763802    
+  DOI: 10.1101/2024.12.27.628014
