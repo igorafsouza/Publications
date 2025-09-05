@@ -1,8 +1,9 @@
 # Publications
 
-### (2025) bioRxiv [Preprint] - MARQO pipeline resolves multiparametric cellular and spatial organization in cancer tissue lesions
-  DOI: [10.1101/2024.12.27.628014](https://doi.org/10.1101/2025.04.24.650539)
-  
+### (2025) Nat. Biomed. Eng. - Multiparametric cellular and spatial organization in cancer tissue lesions with a streamlined pipeline
+  DOI: [10.1101/2024.12.27.628014](https://doi.org/10.1038/s41551-025-01475-9)  
+  Link: https://www.nature.com/articles/s41551-025-01475-9
+
 ### (2024) Nature - An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis
   PMID: 38057662  
   PMCID: PMC11189607  
@@ -25,7 +26,6 @@
 ### (2024) bioRxiv [Preprint] - Dendritic cells type 1 control the formation, maintenance, and function of tertiary lymphoid structures in cancer
   PMID: 39763802    
   DOI: 10.1101/2024.12.27.628014
-
 
 # Patents
 
